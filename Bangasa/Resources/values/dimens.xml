@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="text_date_font">9dp</dimen>
+  <dimen name="text_day_of_week_font">4dp</dimen>
+  <dimen name="text_batt_font">7dp</dimen>
+</resources>
